@@ -1,1 +1,2 @@
 superng6/subfinder
+allanpk716/ChineseSubFinder
