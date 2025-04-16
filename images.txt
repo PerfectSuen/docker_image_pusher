@@ -1,3 +1,4 @@
 superng6/subfinder
 allanpk716/chinesesubfinder
 linuxserver/jackett
+nastool/nas-tools
