@@ -3,4 +3,4 @@ allanpk716/chinesesubfinder
 linuxserver/jackett
 nastool/nas-tools
 talebook/talebook
-linuxsever/calibre-web
+linuxserver/calibre-web
