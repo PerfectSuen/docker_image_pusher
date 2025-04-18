@@ -4,3 +4,4 @@ linuxserver/jackett
 nastool/nas-tools
 talebook/talebook
 linuxserver/calibre-web
+nastool/nas-tools:2.9.1
