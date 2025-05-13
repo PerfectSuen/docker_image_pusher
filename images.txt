@@ -5,3 +5,4 @@ nastool/nas-tools
 talebook/talebook
 linuxserver/calibre-web
 dysf888/nas-tools:2.9.1
+vaultwarden/server
