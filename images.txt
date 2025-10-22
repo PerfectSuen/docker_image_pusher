@@ -1,10 +1,7 @@
 linuxserver/jackett
-talebook/talebook
 linuxserver/calibre-web
-dysf888/nas-tools:2.9.1
 deluan/navidrome
 gdy666/lucky
 xhongc/music_tag_web
 asdaragon/qiandao
-mayswind/ezbookkeeping
 mayswind/ezbookkeeping:latest-snapshot
