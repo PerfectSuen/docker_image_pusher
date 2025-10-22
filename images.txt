@@ -6,5 +6,5 @@ deluan/navidrome
 gdy666/lucky
 xhongc/music_tag_web
 asdaragon/qiandao
-mayswind/ezbookkeeping:
+mayswind/ezbookkeeping
 mayswind/ezbookkeeping:latest-snapshot
