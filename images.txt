@@ -4,4 +4,4 @@ deluan/navidrome
 gdy666/lucky
 xhongc/music_tag_web
 asdaragon/qiandao
-
+dingdangdog/cashbook
